@@ -1,4 +1,16 @@
 
+# GBackup
+
+Simple bash script to Backup Folderes to your GDrive
+
+
+
+
+## Installation
+
+Download and run the Backup.sh script from [#Releases]()
+
+    
 ## Setup
 
 Launch a terminal and run :
